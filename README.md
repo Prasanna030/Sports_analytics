@@ -1,4 +1,4 @@
-# 🏆 Sports Analytics - Pose Estimation
+# Sports Analytics - Pose Estimation
 
 A pose estimation pipeline for sports analytics using YOLO Pose, with sport-specific metrics for **Cricket**, **Tennis**, and **Yoga**.
 
@@ -38,6 +38,9 @@ Video Input → YOLO Pose Detection → Keypoint Extraction → Sport Metrics �
 ```
 
 ---
+
+## Video Used
+I used a side view video of Virat Kohli's cover drive for cricket ,Sinners Tennis serve and a Yoga video.Sinners Serve had people in background which gives a realistic situation when people use the application.Yoga video had a complex yoga pose, which was used to test the rigor of the model.The Cricket video quality was lower so as to check how well the model performs on lower resolution videos.
 
 ## 🤖 Models Used
 
