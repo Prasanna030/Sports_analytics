@@ -1,0 +1,37 @@
+{
+  "benchmark_date": "2026-02-07 11:52:24",
+  "video_file": "Virat_Kohli_s_cover_drive_footage_from_stands_480P.mp4",
+  "max_frames": 100,
+  "results": [
+    {
+      "model_name": "YOLOv8-Pose",
+      "model_size_mb": 6.7,
+      "num_keypoints": 17,
+      "avg_inference_time_ms": 25.88350534439087,
+      "avg_fps": 38.63464344162746,
+      "max_fps": 44.783189903692154,
+      "min_fps": 27.895635055235207,
+      "avg_confidence": 91.49071502685547,
+      "detection_rate": 100.0,
+      "stability_score": 2.7233476638793945,
+      "avg_memory_mb": 912.28859375,
+      "peak_memory_mb": 912.77734375,
+      "frames_processed": 100
+    },
+    {
+      "model_name": "YOLOv8-Pose-L",
+      "model_size_mb": 85.3,
+      "num_keypoints": 17,
+      "avg_inference_time_ms": 194.10919904708862,
+      "avg_fps": 5.15173935552334,
+      "max_fps": 5.304713061624561,
+      "min_fps": 4.645858186430071,
+      "avg_confidence": 71.65452575683594,
+      "detection_rate": 100.0,
+      "stability_score": 2.4673726558685303,
+      "avg_memory_mb": 1125.29609375,
+      "peak_memory_mb": 1125.52734375,
+      "frames_processed": 100
+    }
+  ]
+}

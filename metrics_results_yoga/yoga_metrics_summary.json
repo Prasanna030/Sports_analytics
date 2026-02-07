@@ -1,0 +1,17 @@
+{
+  "sport": "yoga",
+  "summary": {
+    "alignment": {
+      "mean": 63.957800808228505,
+      "max": 95.41947708123618,
+      "min": 0.0
+    },
+    "symmetry": {
+      "mean": 56.079035357887456
+    },
+    "stability": {
+      "avg_movement": 28.54372785648904,
+      "smoothness": 42.91254428702192
+    }
+  }
+}
